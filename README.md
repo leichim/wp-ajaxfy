@@ -1,4 +1,4 @@
-# wp-ajaxfy
+# wp-ajaxify
 Class abstraction for making ajax implementation more straightforward.
 classes/class-ajax-abstract.php
 
